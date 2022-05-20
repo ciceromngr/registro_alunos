@@ -1,0 +1,41 @@
+unit Classe.Pessoa;
+
+interface
+  type TPessoa = class
+    private
+      FNome: String;
+      FCodigo: Integer;
+      FIdade: Integer;
+    FFCodigo: Integer;
+    FFIdade: Integer;
+    FFNome: String;
+    procedure SetFCodigo(const Value: Integer);
+    procedure SetFIdade(const Value: Integer);
+    procedure SetFNome(const Value: String);
+
+    public
+      property Codigo: Integer read FFCodigo write SetFCodigo;
+      property Nome  : String read FFNome write SetFNome;
+      property Idade : Integer read FFIdade write SetFIdade;
+  end;
+
+implementation
+
+{ TPessoa }
+
+procedure TPessoa.SetFCodigo(const Value: Integer);
+begin
+  FFCodigo := Value;
+end;
+
+procedure TPessoa.SetFIdade(const Value: Integer);
+begin
+  FFIdade := Value;
+end;
+
+procedure TPessoa.SetFNome(const Value: String);
+begin
+  FFNome := Value;
+end;
+
+end.

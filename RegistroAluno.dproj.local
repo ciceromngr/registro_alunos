@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/05/13 11:17:19.000.303,=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/20 07:32:27.229,=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/20 07:55:08.860,=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/20 07:58:27.618,D:\GIT\PROJECTS_DELPHI\REGISTRO_ALUNOS\src\uPessoa.pas=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/20 07:59:38.374,D:\GIT\PROJECTS_DELPHI\REGISTRO_ALUNOS\src\Classe.Pessoa.pas=D:\GIT\PROJECTS_DELPHI\REGISTRO_ALUNOS\src\uPessoa.pas</Transaction>
+    <Transaction>2022/05/20 07:59:48.566,=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/20 08:10:18.089,D:\GIT\PROJECTS_DELPHI\REGISTRO_ALUNOS\src\Classe.Aluno.pas=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/20 08:10:43.711,D:\GIT\PROJECTS_DELPHI\REGISTRO_ALUNOS\src\Form.FormPrincipal.dfm=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/20 08:10:43.711,D:\GIT\PROJECTS_DELPHI\REGISTRO_ALUNOS\src\Form.FormPrincipal.pas=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/20 08:14:45.958,D:\GIT\PROJECTS_DELPHI\REGISTRO_ALUNOS\RegistroAluno.dproj=C:\Users\Cicero Romao\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
